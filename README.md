@@ -63,7 +63,17 @@ Enable default encryption:
  6. Add your email ID to receive notifications.
  7.  Review and create the alarm.
   
-         
- ✅ PutRequest has occurred
- ✅ S3 activity is now created
- ✅ CloudWatch metrics will appear soon
+![CloudWatch Dashboard](images/cloudwatch.png)
+
+ ✅  PutRequest has occurred
+ ✅  S3 activity is now created
+ ✅  CloudWatch metrics will appear soon
+
+## Key Topics: S3 Bucket Policies, Encryption, Access Logs
+
+## Tools: AWS Management Console
+
+## Conclusion
+
+By completing these exercises, successfully created an S3 bucket, enabled versioning and server-side encryption, set bucket policies, and configured access logs. 
+These steps are essential for securing data stored in AWS S3.
